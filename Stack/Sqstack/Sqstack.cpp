@@ -13,7 +13,9 @@ typedef StackRecord* Sqstack;
 
 Sqstack initStack(int MaxSize)
 {
+	//动态分配空间，返回 StackRecord * 类型
 	Sqstack s;
+
 	s = (Sqstack)malloc(sizeof(StackRecord));
 	if(s == NULL)
 		printf("Out of Memory!\n");

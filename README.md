@@ -1,5 +1,10 @@
 # DataStructures-Algorithm
+------------------------------
 Review DataStructure & Algorithm, and make some notes
+
+## 2016_05_23
+* Stack 删除链栈中的头结点，增加count成员
+顺序栈链栈的参数都是指针，只是顺序栈进行了typedef
 
 ## 2016_05_23
 * Stack 栈数据结构
