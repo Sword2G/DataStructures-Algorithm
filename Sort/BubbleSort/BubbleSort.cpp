@@ -1,6 +1,5 @@
-/*O(n^2) O(n)
+/* 时间复杂度最坏O(n^2) 最好O(n)
 */
-
 #include<stdio.h>
 
 void Swap(int *a, int *b)
