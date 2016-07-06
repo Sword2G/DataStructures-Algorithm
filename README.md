@@ -1,6 +1,12 @@
 # DataStructures-Algorithm
 ------------------------------
 Review DataStructure & Algorithm, and make some notes
+## 2016_07_05
+剑指 offer  
+* 二进制中 1 的个数  
+* 跳楼梯  
+* 数值的整数次方  
+* 二维数组中查找某个数是否存在  
 
 ## 2016_05_23
 * Stack 删除链栈中的头结点，增加count成员
